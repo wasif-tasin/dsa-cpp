@@ -5,17 +5,18 @@ The purpose of this repository is to build a strong foundation in problem-solvin
 
 ## Folder Structure
 ```text
-arrays/  
-strings/  
-linked-list/  
-├── singly/  
-├── doubly/  
-└── stl/  
-stack/  
-queue/  
-tree/  
-└── binary-tree/  
-dp/  
+arrays/
+strings/
+linked-list/
+├── singly/
+├── doubly/
+└── stl/
+stack/
+queue/
+tree/
+└── binary-tree/
+dp/
+  
 
 ## Topics Covered
 - Arrays
