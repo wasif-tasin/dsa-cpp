@@ -4,6 +4,7 @@ This repository contains my implementations of core data structures and algorith
 The purpose of this repository is to build a strong foundation in problem-solving and algorithmic thinking.
 
 ## Folder Structure
+```text
 arrays/  
 strings/  
 linked-list/  
